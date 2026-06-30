@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0026/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0026_WYG_000-1a, image: WYG1036/WYG1036-0175a.png}
+body:
+  text: 南部新書小説家𩔖一雜事之屬提要臣等謹案南部新書十卷宋錢易撰舊本卷首題籛後人蓋以姓譜載錢氏出籛鏗也易字希白吳越王悰之子真宗朝官至翰林學士是書乃其大中祥符間知開封縣時所作皆記唐時故實間及五代多録軼聞瑣事而朝章國典因革損益之故亦雜載其中故雖小說家言而實有裨於史學晁公武讀書志作五卷焦竑國史經籍志作十卷今考其標題自甲至癸以十干為紀則作十卷者是也世所行本多非完書兼有從曽慥𩔖說中摘録而成半經刪削者此本共八百餘條首尾完具猶為全帙云乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:bacdc484575b723eb351a8d4e0849a229aff8f619e5ac7a6b8db347d9a562983
+metadata:
+  title: 南部新書
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:37:37.772389'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0026/KR3l0026_000.txt
+hash: sha256:856faaa161ccbb52dbebb3c26a08d163c339e8deb55cc7197b3d81013185d99e
